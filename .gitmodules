@@ -1,0 +1,9 @@
+[submodule "Cap I - Fundamentos de Node/test/Desafio02-Node-Middlewares"]
+	path = Cap I - Fundamentos de Node/test/Desafio02-Node-Middlewares
+	url = https://github.com/pefelippe/Desafio02-Node-Middlewares
+[submodule "Cap I - Fundamentos de Node/Desafios/Desafio02-Node-Middlewares"]
+	path = Cap I - Fundamentos de Node/Desafios/Desafio02-Node-Middlewares
+	url = https://github.com/pefelippe/Desafio02-Node-Middlewares
+[submodule "Cap I - Fundamentos de Node/Desafios/Desafio03-Node-Corrigindo-o-c-digo"]
+	path = Cap I - Fundamentos de Node/Desafios/Desafio03-Node-Corrigindo-o-c-digo
+	url = https://github.com/pefelippe/Desafio03-Node-Corrigindo-o-c-digo
